@@ -26,6 +26,14 @@
   justify-content: center
   }
 
+/*.pagination a.active {
+  background-color: #999;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+*/
+
 .card-body{
   text-align: left;
 }
@@ -89,7 +97,7 @@ ul.footer_list li a {
   text-transform: none;
 }
 ul.footer_list a:hover {
-  color: rgba(54, 204, 142, 1);
+  color: #FF5733;
   text-decoration: none;
   list-style: none;
 }

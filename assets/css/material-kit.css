@@ -14470,8 +14470,8 @@ textarea {
 .pagination>.page-item.active>span,
 .pagination>.page-item.active>span:focus,
 .pagination>.page-item.active>span:hover {
-  background-color: #9c27b0;
-  border-color: #9c27b0;
+  background-color: #E74C3C;
+  border-color: #E74C3C;
   color: #fff;
   box-shadow: 0 4px 5px 0 rgba(156, 39, 176, 0.14), 0 1px 10px 0 rgba(156, 39, 176, 0.12), 0 2px 4px -1px rgba(156, 39, 176, 0.2);
 }
@@ -16234,7 +16234,7 @@ footer .pull-center {
 
 .card {
   border: 0;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   margin-top: 30px;
   border-radius: 6px;
   color: rgba(0, 0, 0, 0.87);
