@@ -11,6 +11,21 @@
     padding: 20px
   }
 
+  .main1 {
+    margin: auto;
+    padding: 50px
+  }
+
+  .first-row{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .second-row{
+    display: flex;
+    justify-content: space-between;
+  }
+
   .dropdown-item a:hover{
     color:red;
   }
@@ -25,14 +40,6 @@
   align-items: center;
   justify-content: center
   }
-
-/*.pagination a.active {
-  background-color: #999;
-  color: white;
-}
-
-.pagination a:hover:not(.active) {background-color: #ddd;}
-*/
 
 .card-body{
   text-align: left;
@@ -375,3 +382,4 @@ opacity: 0;
   background-color: #FF0000;
   margin-top: 0px;
 }
+

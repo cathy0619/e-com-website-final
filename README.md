@@ -1,2 +1,2 @@
-# e-com-website-final
+# e-com-website
 front-end project for KAL Skills Akademie
